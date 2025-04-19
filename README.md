@@ -23,13 +23,9 @@ P.S.: si vous changer le modèle utilisé dans le code, vous devez faire cette �
 pip install -r rag/requirements.txt
 ```
 
-- Se placer dans le dossier du projet :
+- Se placer dans le dossier du projet et lancer la commande :
 ```
-cd chemin_du_dossier_git\rag
-```
-Puis taper :
-```
-streamlit run app.py
+streamlit run rag/app.py
 ```
 
 - Une fenêtre web va s'ouvrir avec comme URL :
