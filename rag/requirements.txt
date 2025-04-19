@@ -1,0 +1,6 @@
+streamlit~=1.22
+faiss-cpu~=1.9
+sentence-transformers~=3.2
+ollama~=0.3
+numpy~=1.26
+PyPDF2~=3.0
